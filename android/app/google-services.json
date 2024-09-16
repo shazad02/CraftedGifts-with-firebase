@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86345767382",
+    "project_id": "kado-lhokseumawe",
+    "storage_bucket": "kado-lhokseumawe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86345767382:android:fb1ade3330dc863795ec77",
+        "android_client_info": {
+          "package_name": "com.example.kelompok6_a2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyM2o9j2ADkYdrkzTW0d5EdLgRNoEOh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86345767382:android:f5fe6d129b46b1a095ec77",
+        "android_client_info": {
+          "package_name": "com.example.kelompok6_a22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyM2o9j2ADkYdrkzTW0d5EdLgRNoEOh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

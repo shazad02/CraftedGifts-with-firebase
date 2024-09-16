@@ -1,0 +1,29 @@
+class Iconss {
+  static const String fb = 'assets/icons/facebook.png';
+  static const String google = 'assets/icons/Google.png';
+  static const String line = 'assets/icons/line.png';
+  static const String bouquet = 'assets/icons/Bouquet.png';
+  static const String bouquetballon = 'assets/icons/Bouquet Ballon.png';
+  static const String bingkai = 'assets/icons/Bingkai.png';
+  static const String akrilik = 'assets/icons/Akrilik.png';
+  static const String giftbox = 'assets/icons/Gift Box.png';
+  static const String drawer = 'assets/icons/drawer.png';
+  static const String notif = 'assets/icons/notif.png';
+  static const String avatar = 'assets/icons/avatar.png';
+  static const String back = 'assets/icons/back.png';
+  static const String pay = 'assets/icons/Bank Cards.png';
+  static const String categorize = 'assets/icons/Categorize.png';
+  static const String gift = 'assets/icons/Gift.png';
+  static const String logout = 'assets/icons/Logout.png';
+  static const String scooter = 'assets/icons/Scooter.png';
+  static const String shopingcart = 'assets/icons/Shopping Cart.png';
+  static const String arrowback = 'assets/icons/arrowback.png';
+  static const String logwarna = 'assets/icons/logwarna.png';
+  static const String abuabu = 'assets/icons/abuabu.png';
+  static const String cartshoping = 'assets/icons/cartshoping.png';
+  static const String ovo = 'assets/icons/ovo.png';
+  static const String dana = 'assets/icons/dan.png';
+  static const String bsi = 'assets/icons/bsi.png';
+  static const String acc = 'assets/icons/acc.png';
+  static const String loupe = 'assets/icons/loupe.png';
+}
